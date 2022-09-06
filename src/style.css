@@ -1,0 +1,10 @@
+.image-carousel-one {
+  object-fit: cover; /* cobre toda área do container  */
+  object-position: 0 60%; /* mover a imagem no eixo x e y  */
+  height: 400px;
+}
+
+.image-carousel-two {
+  object-fit: cover;
+  height: 400px;
+}
