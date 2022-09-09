@@ -1,3 +1,7 @@
+.article-width {
+  width: 18rem;
+}
+
 .image-carousel-one {
   object-fit: cover; /* cobre toda área do container  */
   object-position: 0 60%; /* mover a imagem no eixo x e y  */
@@ -24,4 +28,9 @@
 
 .special-edge-color {
   border-color: darkred;
+}
+
+.card-position {
+  object-fit: cover;
+  height: 200px;
 }
