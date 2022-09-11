@@ -1,5 +1,5 @@
 .article-width {
-  width: 18rem;
+  max-width: 18rem; /* Não esticar mais que a largura máxima */
 }
 
 .image-carousel-one {
